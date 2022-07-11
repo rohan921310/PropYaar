@@ -1,4 +1,4 @@
-# risee
+# PropYaar (Property Wala Yaar)
 
 About: 
 It is a site to Explore New Real Estate Properties.
